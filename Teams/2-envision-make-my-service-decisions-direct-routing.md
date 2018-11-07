@@ -22,6 +22,10 @@ Routing”), you must make a series of service decisions ahead of time to better
 prepare your organization to implement a solution that meets the business
 requirements you’ve defined.
 
+
+> [!Tip] 
+> Watch the following session to learn about the benefits of Direct Routing, how to plan for it, and how to deploy it: [Direct Routing in Microsoft Teams](https://aka.ms/teams-direct-routing)
+
 ## Calling in Teams
 
 With Microsoft Teams, your users can place and receive phone calls to or from
